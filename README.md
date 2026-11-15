@@ -1,2 +1,2 @@
-# DSA-Array-Assignment-02
-Stack and Queue in java
+data structure Assignment2-java programs for stack and Queue using Array
+
