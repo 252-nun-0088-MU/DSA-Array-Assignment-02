@@ -1,0 +1,49 @@
+Initially, the queue is empty.
+
+1. Enqueue(10)
+
+We insert 10 into the empty queue.
+
+Queue: [10]
+
+2. Enqueue(20)
+
+Now we insert 20 at the end of the queue.
+
+Queue: [10, 20]
+
+3. Enqueue(30)
+
+We insert 30 at the end of the queue.
+
+Queue: [10, 20, 30]
+
+4. Dequeue()
+
+The dequeue operation removes the first element of the queue. In this case, 10 is removed.
+
+Queue: [20, 30]
+
+5. Enqueue(40)
+
+Now we insert 40 at the end of the queue.
+
+Queue: [20, 30, 40]
+
+6. Dequeue()
+
+Again, we remove the first element. This time, 20 is removed.
+
+Queue: [30, 40]
+
+Final Result
+After performing all the given operations, the final queue contains:
+
+[30, 40]
+
+Front element: 30
+
+Rear element: 40
+
+Total elements: 2
+
