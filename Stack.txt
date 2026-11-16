@@ -1,0 +1,38 @@
+Initially, the stack is empty.
+
+1. Push(10)
+
+We insert 10 into the empty stack.
+
+Stack: [10]
+
+2. Push(20)
+
+Now we insert 20. It is placed on top of 10.
+
+Stack: [10, 20]
+
+3. Push(30)
+
+We insert 30 on top of 20.
+
+Stack: [10, 20, 30]
+
+4. Pop()
+
+The pop operation removes the top element of the stack. In this case, 30 is removed.
+
+Stack: [10, 20]
+
+5. Push(40)
+
+Now we insert 40 into the stack. It becomes the new top element.
+
+Stack: [10, 20, 40]
+
+6. Pop()
+
+Again, we remove the top element. This time, 40 is removed from the stack.
+
+Stack: [10, 20]
+
